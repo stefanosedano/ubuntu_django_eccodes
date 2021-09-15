@@ -20,3 +20,4 @@ affine
 opencv-python
 scikit-video
 eccodes
+django_compressor
