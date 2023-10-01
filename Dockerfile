@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.04
 #FROM ubuntu:20.04
 #bionic
 ENV DEBIAN_FRONTEND=noninteractive
