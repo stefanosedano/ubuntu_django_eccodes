@@ -19,5 +19,5 @@ gdal
 affine
 opencv-python
 scikit-video
-django_compressor
 tephigram
+django_compressor
