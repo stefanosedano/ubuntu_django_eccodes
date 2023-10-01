@@ -21,3 +21,4 @@ opencv-python
 scikit-video
 eccodes
 django_compressor
+tephigram_python
