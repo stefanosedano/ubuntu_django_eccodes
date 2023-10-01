@@ -18,6 +18,5 @@ gdal
 affine
 opencv-python
 scikit-video
-tephigram
 matplotlib
 django_compressor
