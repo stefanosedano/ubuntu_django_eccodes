@@ -20,4 +20,4 @@ affine
 opencv-python
 scikit-video
 django_compressor
-tephigram_python
+tephigram
