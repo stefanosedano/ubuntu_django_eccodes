@@ -1,5 +1,5 @@
 beautifulsoup4
-Django==3.0.14
+Django==4.2.13
 django-filter
 djangorestframework
 Fiona
@@ -21,3 +21,4 @@ scikit-video
 matplotlib
 django_compressor
 MetPy
+wiki
