@@ -22,4 +22,4 @@ matplotlib
 django_compressor
 MetPy
 wiki
-django-allauth==0.55.2
+django-allauth==0.44.0
