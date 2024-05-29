@@ -13,7 +13,7 @@ pyproj
 six
 xmltodict
 psycopg2-binary
-django-allauth
+django-allauth==0.54.0
 gdal
 affine
 opencv-python
