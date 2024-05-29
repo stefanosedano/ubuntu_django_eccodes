@@ -6,16 +6,15 @@ Fiona
 geopandas
 lxml
 Markdown
-numpy==1.21.4
+numpy
 pandas
 Pillow
 pyproj
 six
 xmltodict
 psycopg2-binary
-django-allauth==0.54.0
-setuptools==56.0.0
-gdal==3.2.3
+setuptools
+gdal
 affine
 opencv-python
 scikit-video
@@ -23,3 +22,4 @@ matplotlib
 django_compressor
 MetPy
 wiki
+django-allauth==0.54.0
