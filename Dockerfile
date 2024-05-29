@@ -1,9 +1,7 @@
 FROM ubuntu:22.04
-#FROM ubuntu:20.04
-#bionic
 ENV DEBIAN_FRONTEND=noninteractive
 
-COPY ./requirements.txt /requirements.txt
+#COPY ./requirements.txt /requirements.txt
 
 RUN mkdir /seemhews
 RUN mkdir /home/tiles
@@ -27,7 +25,7 @@ WORKDIR /
 
 RUN pip install --upgrade pip
 
-RUN pip install -r /requirements.txt
+#RUN pip install -r /requirements.txt
 
 RUN apt-get install -y apache2 --no-install-recommends; apt-get install -y libapache2-mod-wsgi-py3 --no-install-recommends
 
