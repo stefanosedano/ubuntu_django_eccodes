@@ -29,6 +29,6 @@ RUN pip install --upgrade pip
 
 RUN apt-get install -y apache2 --no-install-recommends; apt-get install -y libapache2-mod-wsgi-py3 --no-install-recommends
 
-RUN apt install nfs-common -y
+
 
 
